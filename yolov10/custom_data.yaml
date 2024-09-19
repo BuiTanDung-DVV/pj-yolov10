@@ -1,0 +1,7 @@
+train: E:\pj-yolov10\yolov10\custom_dataset\dataset\train\images
+val: E:\pj-yolov10\yolov10\custom_dataset\dataset\valid\images
+test: E:\pj-yolov10\yolov10\custom_dataset\dataset\test\images
+
+
+nc: 4
+names: ['Bia-Truc-Bach', 'Coca Cola', 'Fanta', 'Heineken']
